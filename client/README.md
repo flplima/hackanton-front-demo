@@ -1,30 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# readme
 
-## Getting Started
+### 🛠 TECHNOLOGIES USED
+<ul>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>HTML/CSS</li>
+</ul>
 
-First, run the development server:
+### 🧰 DEPENDENCIES
+<ul>
+  <li> <a href="https://nodejs.org"> NODEJS </a> </li>
+  <li> <a href="https://www.yarn.com"> YARN </a> </li>
+</ul>
 
-```bash
-npm run dev
-# or
-yarn dev
+### 🚀 GET STARTING
+
+1. Make a clone :
+
+```sh
+  $ git clone https://github.com/pedr0aroucha/hackanton-front-demo.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Execute the aplication:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
+  # enter the folder
+  $ cd hackanton-front-demo/client
 
-## Learn More
+  # Install the dependencies
+  $ yarn
 
-To learn more about Next.js, take a look at the following resources:
+  # Start the aplication
+  $ yarn dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```

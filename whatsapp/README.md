@@ -25,7 +25,7 @@
 
 ```sh
   # enter the folder
-  $ cd hackanton-front-demo
+  $ cd hackanton-front-demo/whatsap
 
   # Install the dependencies
   $ yarn
