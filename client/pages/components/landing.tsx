@@ -12,7 +12,7 @@ export default function landing() {
 					a solução prática que irá otimizar
 					seu tempo e economizar os gastos
 					financeiros sem a necessidade de
-					instaler nenhum aplicativo.
+					instalar nenhum aplicativo.
 				</p>
 				<Link href="#about"> Veja Mais </Link>
 			</div>

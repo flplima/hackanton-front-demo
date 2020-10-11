@@ -12,6 +12,7 @@ import ContactUs from "./components/contactUs";
 export default function Home({ stars }) {
 	return (
 		<div className={styles.container}>
+			<title>Getúlia</title>
 			<Header />
 			<Landing />
 			<About />

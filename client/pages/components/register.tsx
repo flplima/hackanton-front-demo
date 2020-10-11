@@ -29,7 +29,7 @@ export default function Login() {
 			<Link href="/">Cadastrar</Link>
 			<span>
 				Já possui uma conta?
-				<Link href="#login">Faça eu Login</Link>
+				<Link href="#login">Faça seu Login</Link>
 			</span>
 		</div>
 	);
